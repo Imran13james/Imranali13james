@@ -1,9 +1,8 @@
 # Imranali13james
-<img alt="MygitHub" align="right" width="" src="https://miro.medium.com/v2/resize:fit:1280/0*-u0b7K0Q6zfBcQqT.gif"/>
-
+[![MasterHead](https://th.bing.com/th/id/R.eb91ee4acb8a7af43641bc6f9ca98a81?rik=7dlUk3syJfZkog&pid=ImgRaw&r=0)
 <h1 align="center">Hi 👋, I'm Imran Ali</h1>
 <h3 align="center">A passionate Full stack Developer from Pakistan</h3>
-
+<img alt="MygitHub" align="right" width="400" src="https://miro.medium.com/v2/resize:fit:1280/0*-u0b7K0Q6zfBcQqT.gif"/>
 - 🌱 I’m currently learning **Next Js, React Js**
 
 - 💬 Ask me about **Mern Stack development**
